@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BespokeCode/.github/main/profile/BC-BespokeCode.png" alt="BespokeCode Logo" width="140" height="140" />
+  <img src="https://raw.githubusercontent.com/BespokeCodeDE/.github/refs/heads/main/profile/BC-BespokeCode.png" alt="BespokeCode Logo" width="140" height="140" />
   <h1>BespokeCode</h1>
   <p><strong>Crafting tailored digital solutions – modern, scalable & secure.</strong></p>
 
