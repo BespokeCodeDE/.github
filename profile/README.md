@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BespokeCode/.github/main/profile/logo.png" alt="BespokeCode Logo" width="140" height="140" />
+  <img src="https://raw.githubusercontent.com/BespokeCode/.github/main/profile/BC-BespokeCode.png" alt="BespokeCode Logo" width="140" height="140" />
   <h1>BespokeCode</h1>
   <p><strong>Crafting tailored digital solutions – modern, scalable & secure.</strong></p>
 
@@ -7,9 +7,11 @@
     <a href="https://bespokecode.de" target="_blank">
       <img src="https://img.shields.io/badge/Website-BespokeCode.de-E50914?style=for-the-badge&logo=Google-chrome&logoColor=white" />
     </a>
+    
     <a href="mailto:m.eckel@bespokecode.de">
       <img src="https://img.shields.io/badge/Contact-m.eckel@bespokecode.de-E50914?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    
     <a href="https://www.linkedin.com/company/bespokecode" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Follow-E50914?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
