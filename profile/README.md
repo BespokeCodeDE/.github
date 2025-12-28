@@ -13,8 +13,8 @@
     <a href="https://bespokecode.de" target="_blank">
       <img src="https://img.shields.io/badge/Website-BespokeCode.de-E50914?style=for-the-badge&logo=Google-chrome&logoColor=white" />
     </a>
-    <a href="mailto:m.eckel@bespokecode.de">
-      <img src="https://img.shields.io/badge/Contact-m.eckel@bespokecode.de-E50914?style=for-the-badge&logo=gmail&logoColor=white" />
+    <a href="mailto:hey@bespokecode.de">
+      <img src="https://img.shields.io/badge/Contact-hey@bespokecode.de-E50914?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/company/bespokecode" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Follow-E50914?style=for-the-badge&logo=linkedin&logoColor=white" />
